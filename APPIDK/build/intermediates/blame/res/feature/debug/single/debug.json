@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\src\\main\\res\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\build\\intermediates\\res\\merged\\feature\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]

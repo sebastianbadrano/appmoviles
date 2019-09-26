@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Sep 24 20:28:53 COT 2019
+1.base=C\:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\0
+1.path=classes.dex

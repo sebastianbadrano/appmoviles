@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\build\\intermediates\\res\\merged\\feature\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\exito salitre\\Desktop\\Uni\\apps moviles\\APPIDK\\APPIDK\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,5,9,8,6,7,10,2,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "165,228,521,441,285,363,593,54,101",
+                        "endColumns": "62,56,71,79,77,77,115,46,63",
+                        "endOffsets": "223,280,588,516,358,436,704,96,160"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,232,289,361,441,519,597,713,760",
+                        "endColumns": "62,56,71,79,77,77,115,46,63",
+                        "endOffsets": "227,284,356,436,514,592,708,755,819"
+                    }
+                }
+            ]
+        }
+    ]
+}

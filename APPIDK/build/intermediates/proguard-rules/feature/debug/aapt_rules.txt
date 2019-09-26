@@ -1,0 +1,15 @@
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:19
+-keep class com.example.macbookpro.appidk.APPIDK.Home { <init>(...); }
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:33
+-keep class com.example.macbookpro.appidk.APPIDK.Perfil { <init>(...); }
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:29
+-keep class com.example.macbookpro.appidk.APPIDK.registro { <init>(...); }
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\src\main\res\layout\activity_perfil.xml:135
+-keep class android.support.constraint.Barrier { <init>(...); }
+
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\src\main\res\layout\activity_perfil.xml:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\src\main\res\layout\activity_home.xml:34
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+

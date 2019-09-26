@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3b5b3a88b09321f4c2c1ca97c96b3272\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9a0fb500d7f2baf56321b09502caa7c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e71f5e15fa6c4b4e0f4af811365d881b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9be3ae96a3d9d1a4f0e3d0ac071a4c61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ead5028232ac4af3ac49a8c079a6af65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\361e469bfaddc1f2b65df13e40226282\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38e91d9a3603b226ccf15c5c7b84e170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9bcedd500417c337f7d646eb23038a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\317bf298b9f31dfb684a58cbaee444bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec3119ee3fbdc2dcbe596a3d9c344642\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e8f609c841f1026e3d313c3d99b65910\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\48ab9e65d924fdfa2d571f0b13e832db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86e9e9351f5cd9b2cec050a855c8d6b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\262f29b1da3b5b04e492334c5beeaf43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d636babb216ff46890443c4031e5dba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12204289498da2e7606b2e38de9dbfbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e2d6ccdd7e673738edd173782c96ea66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a94d0b4c1a0a1fe170c81c887b5335b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6f3b23329f7c5f41980be8a3b93b9496\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\adedd3b0fa95031280d65b643d4d9a91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7eeaa5a6da0ba9eea6fd2310dd65d0c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\675f81680f8383f21bd6bfe69a902c68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\88b816c0e1a6705dde1aaa56f1108a62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33371091e504e1c2265938e6a16a085f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a8463ff44ccab12bff84590496c40f7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b3970eec590c673124b5f38b9cea813a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\881b4d82be66f21ce6e8e198c0ca3e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\94486535c9da4a8d0ed9639353010ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c274325013ba55aa5e12a5e8845628d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ff3ab56007d5f9effc500e65eafddc\AndroidManifest.xml:17:1-22:12
+MERGED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:5:5-15:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3b5b3a88b09321f4c2c1ca97c96b3272\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3b5b3a88b09321f4c2c1ca97c96b3272\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e71f5e15fa6c4b4e0f4af811365d881b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e71f5e15fa6c4b4e0f4af811365d881b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6f3b23329f7c5f41980be8a3b93b9496\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6f3b23329f7c5f41980be8a3b93b9496\AndroidManifest.xml:22:5-23:19
+MERGED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:16:5-36:19
+MERGED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:16:5-36:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:8:9-41
+	android:debuggable
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:17:9-34
+	android:testOnly
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:18:9-32
+	android:roundIcon
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:11:9-40
+meta-data#aia-compat-api-min-version
+ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:12:9-14:33
+	android:value
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:14:13-30
+	android:name
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml:13:13-54
+uses-sdk
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3b5b3a88b09321f4c2c1ca97c96b3272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3b5b3a88b09321f4c2c1ca97c96b3272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9a0fb500d7f2baf56321b09502caa7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9a0fb500d7f2baf56321b09502caa7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e71f5e15fa6c4b4e0f4af811365d881b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e71f5e15fa6c4b4e0f4af811365d881b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9be3ae96a3d9d1a4f0e3d0ac071a4c61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9be3ae96a3d9d1a4f0e3d0ac071a4c61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ead5028232ac4af3ac49a8c079a6af65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ead5028232ac4af3ac49a8c079a6af65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\361e469bfaddc1f2b65df13e40226282\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\361e469bfaddc1f2b65df13e40226282\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38e91d9a3603b226ccf15c5c7b84e170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38e91d9a3603b226ccf15c5c7b84e170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9bcedd500417c337f7d646eb23038a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9bcedd500417c337f7d646eb23038a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\317bf298b9f31dfb684a58cbaee444bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\317bf298b9f31dfb684a58cbaee444bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec3119ee3fbdc2dcbe596a3d9c344642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ec3119ee3fbdc2dcbe596a3d9c344642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e8f609c841f1026e3d313c3d99b65910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e8f609c841f1026e3d313c3d99b65910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\48ab9e65d924fdfa2d571f0b13e832db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\48ab9e65d924fdfa2d571f0b13e832db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86e9e9351f5cd9b2cec050a855c8d6b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\86e9e9351f5cd9b2cec050a855c8d6b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\262f29b1da3b5b04e492334c5beeaf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\262f29b1da3b5b04e492334c5beeaf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d636babb216ff46890443c4031e5dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4d636babb216ff46890443c4031e5dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12204289498da2e7606b2e38de9dbfbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12204289498da2e7606b2e38de9dbfbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e2d6ccdd7e673738edd173782c96ea66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e2d6ccdd7e673738edd173782c96ea66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a94d0b4c1a0a1fe170c81c887b5335b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a94d0b4c1a0a1fe170c81c887b5335b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0629d85671f4248212436bb509428dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6f3b23329f7c5f41980be8a3b93b9496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6f3b23329f7c5f41980be8a3b93b9496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\adedd3b0fa95031280d65b643d4d9a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\adedd3b0fa95031280d65b643d4d9a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7eeaa5a6da0ba9eea6fd2310dd65d0c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7eeaa5a6da0ba9eea6fd2310dd65d0c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\675f81680f8383f21bd6bfe69a902c68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\675f81680f8383f21bd6bfe69a902c68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\88b816c0e1a6705dde1aaa56f1108a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\88b816c0e1a6705dde1aaa56f1108a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33371091e504e1c2265938e6a16a085f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\33371091e504e1c2265938e6a16a085f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a8463ff44ccab12bff84590496c40f7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a8463ff44ccab12bff84590496c40f7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b3970eec590c673124b5f38b9cea813a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b3970eec590c673124b5f38b9cea813a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\881b4d82be66f21ce6e8e198c0ca3e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\881b4d82be66f21ce6e8e198c0ca3e6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\94486535c9da4a8d0ed9639353010ff3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\94486535c9da4a8d0ed9639353010ff3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c274325013ba55aa5e12a5e8845628d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c274325013ba55aa5e12a5e8845628d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ff3ab56007d5f9effc500e65eafddc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\exito salitre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ff3ab56007d5f9effc500e65eafddc\AndroidManifest.xml:20:5-44
+MERGED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:9:5-11:41
+MERGED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:9:5-11:41
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		ADDED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\base\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:14:22-69
+activity#com.example.macbookpro.appidk.APPIDK.Home
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:21:13-45
+	android:splitName
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:22:13-39
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:20:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:26:27-74
+activity#com.example.macbookpro.appidk.APPIDK.registro
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:29:9-32:42
+	android:label
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:31:13-60
+	android:splitName
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:32:13-39
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:30:13-73
+activity#com.example.macbookpro.appidk.APPIDK.Perfil
+ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:33:9-35:42
+	android:splitName
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:35:13-39
+	android:name
+		ADDED from [:APPIDK] C:\Users\exito salitre\Desktop\Uni\apps moviles\APPIDK\APPIDK\build\intermediates\merged_manifests\debugFeature\processDebugFeatureManifest\merged\AndroidManifest.xml:34:13-71
